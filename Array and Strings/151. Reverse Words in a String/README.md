@@ -1,8 +1,8 @@
-# Word Ladder
+# Reverse Words in a String
 
 Leetcode Problem Link - [here](https://leetcode.com/problems/reverse-words-in-a-string/description/?envType=study-plan-v2&envId=leetcode-75)!
 
-### [Solution](/Array and Strings/151. Reverse Words in a String/151. Reverse Words in a String.cpp): Breadth-First Search
+### [Solution](/Array%20and%20Strings/151.%20Reverse%20Words%20in%20a%20String/151.%20Reverse%20Words%20in%20a%20String.cpp):
 
 ```cpp
 string reverseWords(string s) {
