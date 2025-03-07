@@ -2,6 +2,8 @@
 
 Leetcode Problem Link - [here](https://leetcode.com/problems/reverse-words-in-a-string/description/?envType=study-plan-v2&envId=leetcode-75)!
 
+Youtube Video - https://www.youtube.com/watch?v=vB4ObI8R6zc
+
 ### [Solution](/Array%20and%20Strings/151.%20Reverse%20Words%20in%20a%20String/151.%20Reverse%20Words%20in%20a%20String.cpp):
 
 ```cpp
